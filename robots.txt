@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://readnplay-3d.vercel.app/sitemap.xml
